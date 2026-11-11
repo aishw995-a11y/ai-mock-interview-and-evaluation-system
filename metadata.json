@@ -1,0 +1,6 @@
+{
+  "name": "AI Mock Interview and Evaluation System",
+  "description": "AI-powered mock interview simulator and evaluation platform with voice interaction, dynamic question generation, instant speech-to-text, comprehensive answer scoring, and personalized career feedback.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
